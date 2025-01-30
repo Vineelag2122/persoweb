@@ -1,0 +1,36 @@
+#mypic{
+    height: 15em;
+    width: 15em;
+}
+a{
+    color: brown;
+}
+#resume{
+    border:3px dotted rgb(157, 15, 15);
+    padding: 10px;
+}
+#h{ 
+    height: 110px;
+    padding: auto;
+}
+#hp{
+    margin: 25px;
+}
+.webname{
+    margin-left: 100px;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 30px;
+    color: whitesmoke;
+    font-weight: bolder;
+}
+#hh{
+    background-color: rgba(31, 31, 214, 0.811);
+    margin-left: -15px;
+    margin-right: -15px;
+    margin-top: -15px;
+}
+#full{
+    display: flex;
+    justify-content: space-between;
+}
